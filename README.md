@@ -1,50 +1,65 @@
-# Welcome to your Expo app 👋
+# ATL Company - Marketplace Mobile para Projetos de Artesanato 🛒 | Projeto de Extensão em React Native ⚛️
+![Status do Projeto](https://img.shields.io/badge/status-Em%20desenvolvimento-yellow)
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+ATL Company é um aplicativo mobile de marketplace desenvolvido com React Native. Seu principal objetivo é digitalizar as vendas de uma artesã local (Luciane Maria), promovendo sua inclusão digital e ampliando o alcance de seus produtos no ambiente virtual.
 
-## Get started
+## ✍️ Descrição
+Este projeto tem como objetivo principal a aplicação prática dos conhecimentos adquiridos nas aulas de **Programação para Dispositivos Móveis em Android** administradas pelo professor **Ronaldo Cândido**, dentro do contexto de um programa de extensão universitário. A proposta envolve o desenvolvimento de um aplicativo mobile, construído com React Native, que funcione como um marketplace voltado à comercialização de produtos artesanais.
 
-1. Install dependencies
+A solução foi pensada para atender às necessidades da artesã Luciane Maria, permitindo a digitalização de seu catálogo de produtos e proporcionando uma vitrine virtual acessível e intuitiva. A plataforma facilita a exibição organizada dos itens disponíveis para venda, ampliando seu alcance para além do comércio físico e promovendo maior visibilidade de seu trabalho artesanal.
 
-   ```bash
-   npm install
-   ```
+## ⚒️ Tecnologias utilizadas:
+- React Native;
+- Expo;
+- Node;
+- Android Studio;
+- JDK;
+- Visual Studio Code;
+- Git;
+- GitHub.
 
-2. Start the app
+## 🚀 Funcionalidades Atuais
+- Sistema de Login;
+- Visualização de produtos artesanais;
+- Interface adaptada para dispositivos móveis;
+- Estrutura de navegação intuitiva;
 
-   ```bash
-   npx expo start
-   ```
+## 🖼️ Demonstração do projeto:
+<p align="center">
+  <img src="atl-company.gif" alt="Demo do app" width="500"/>
+</p>
 
-In the output, you'll find options to open the app in a
+## 🧰 Como Executar o Projeto
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
+1.  Clone o repositório:
 
 ```bash
-npm run reset-project
+git clone https://github.com/quint-ino/projeto-mobile.git
+```
+2. Instalar dependências:
+
+```bash
+npm install
 ```
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+3. Inicie o aplicativo:
 
-## Learn more
+```bash
+npm start
+```
 
-To learn more about developing your project with Expo, look at the following resources:
+No terminal, você encontrará as seguintes alternativas para rodar o aplicativo:
 
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
+- [Development build](https://docs.expo.dev/develop/development-builds/introduction/)
+- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
+- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
+- [Expo Go](https://expo.dev/go)
 
-## Join the community
 
-Join our community of developers creating universal apps.
 
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+## 👥 Participantes do projeto:
+- **Alisson Dalbem** - Desenvolvimento front-end e relacionamento direto com a artesã beneficiária;
+- **Herbert Luiz** - Design do projeto;
+- **Leonardo Oliveira** - Organização geral, distribuição de tarefas e apresentação final do projeto;
+- **Matheus Quintino** - Desenvolvimento back-end;
+- **Nathália Anastácio** - Roteiro e design dos slides de apresentação.
